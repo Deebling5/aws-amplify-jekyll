@@ -4,6 +4,7 @@ frontend:
     preBuild:
       commands:
         - gem install bundler
+	- bundle update jekyll
         - bundle install
     build:
       commands:
