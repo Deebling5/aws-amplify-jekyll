@@ -1,7 +1,7 @@
-title: Sensor Data Exchange
-#remote_theme: opendocsg/opendoc-theme@master
+title: Jekyll test site
+#remote_theme: Deebling5/aws-amplify-jekyll
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-sensor-data-exchange
+repository: Deebling5/aws-amplify-jekyll
 plugins:
   - jekyll-include-cache
 baseurl: ""
